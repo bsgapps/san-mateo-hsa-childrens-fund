@@ -1,4 +1,5 @@
-var domain = 'http://localhost:4568';
+var domain = 'http://childrensfund.azurewebsites.net';
+/*var domain = 'http://localhost:4568';*/
 
 /*jslint node: true */
 'use strict';
